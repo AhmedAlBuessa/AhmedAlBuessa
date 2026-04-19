@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Ahmed+AlBuessa;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=239120&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Ahmed+AlBuessa;Adopting+AI+in+Mechanical+Engineering+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
 **More successful launches than NASA. Less budget.**
 
@@ -18,7 +18,7 @@
 name: Ahmed AlBuessa
 location: Canada
 company: Welren
-focus: Shipping fast, breaking nothing
+focus: Adopting AI in Mechanical Engineering to help engineers
 motto: "If it works, ship it. If it doesn't, ship the fix."
 ```
 
@@ -52,12 +52,12 @@ motto: "If it works, ship it. If it doesn't, ship the fix."
 ## GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedAlBuessa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlBuessa&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmedAlBuessa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=239120&icon_color=239120&text_color=C9D1D9&ring_color=239120" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedAlBuessa&theme=tokyonight&hide_border=true&background=0D1117&ring=239120&fire=239120&currStreakLabel=239120&sideLabels=C9D1D9&dates=C9D1D9" />
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlBuessa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlBuessa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=239120&text_color=C9D1D9" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ motto: "If it works, ship it. If it doesn't, ship the fix."
 ## Activity Graph
 
 <p align="center">
-<a href="https://github.com/AhmedAlBuessa"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlBuessa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" /></a>
+<a href="https://github.com/AhmedAlBuessa"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAlBuessa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=239120&line=239120&point=FFFFFF&area=true&area_color=239120" /></a>
 </p>
 
 ---
@@ -73,13 +73,13 @@ motto: "If it works, ship it. If it doesn't, ship the fix."
 ## Featured Project
 
 <p align="center">
-<a href="https://github.com/AhmedAlBuessa/Claude-Pulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlBuessa&repo=Claude-Pulse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/AhmedAlBuessa/Claude-Pulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlBuessa&repo=Claude-Pulse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=239120&icon_color=239120&text_color=C9D1D9" /></a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AhmedAlBuessa&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AhmedAlBuessa&color=239120&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=239120&height=80&section=footer" width="100%" />
